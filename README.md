@@ -1,0 +1,1 @@
+This project shows an Objective-C implementation for the ThingiVerse REST API. The details about the REST calls can be found at http://www.thingiverse.com/developers/rest-api-reference. This Objective-C implementation has been used to implement the Printables app https://itunes.apple.com/us/app/printables/id634679113?mt=8 in the Apple AppStore.
